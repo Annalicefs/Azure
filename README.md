@@ -90,7 +90,7 @@ extraindo_texto_url('URL')
 
 ### 3. Integração com Azure OpenAI
 
-A integração utiliza o modelo **GPT-35-Turbo** para tradução. No entanto, devido às restrições da conta estudantil, algumas falhas foram encontradas (detalhadas na seção abaixo).
+A integração utiliza o modelo **GPT-4o-mini** para tradução. .
 
 #### Exemplo:
 ```python
